@@ -1,7 +1,7 @@
 {
-    "deck": "Book of Thoth",
-    "interpreter": "Dion Fortune",
+    "arrangement": 4,
+    "voice": "Dion Fortune",
     "prompt": "What will my position at work be like in 3 months?",
-    "spread": "Celtic Cross",
+    "spread": 1,
     "brevity": "Medium"
 }
